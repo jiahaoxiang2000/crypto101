@@ -3,6 +3,7 @@
         "ciphertext",
         "ciphertexts",
         "cryptosystems",
+        "FIPS",
         "plaintexts"
     ]
 }
